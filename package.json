@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-latest": "^6.24.0",
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
     "mocha-loader": "^1.1.1",
